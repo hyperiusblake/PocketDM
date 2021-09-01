@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">D100</string>
+    <string name="roll">Roll!</string>
+    <!--  critical failure: weapon -->
+    <string name="one_fail_weapon">"You're embarrassed by your poor showing, but nothing remarkable happens."</string>
+    <string name="one_fail_weapon_sub">"You miss your attack."</string>
+    <string name="two_five_fail_weapon">"You lose your footing, exposing yourself to your target."</string>
+    <string name="two_five_fail_weapon_sub">"Your target has advantage on their first attack against you next round."</string>
+    <string name="six_nine_weapon">"You lose your combat footing, exposing yourself to your enemies."</string>
+    <string name="six_nine_weapon_sub">"Your enemies have advantage on their first attack roll against you next round."</string>
+    <string name="ten_fourteen_weapon">"You lose your combat footing, and have difficulty recovering."</string>
+    <string name="ten_fourteen_weapon_sub">"Your enemies have advantage on their attack rolls against you until the end of your next turn."</string>
+    <string name="fifteen_nineteen_weapon">"Melee: You get tangled with your enemy and fall over. \n Ranged: You spill your quiver."</string>
+    <string name="fifteen_nineteen_weapon_sub">"Melee: You are knocked prone and your movement is reduced to 0. Your target must succeed a DC 10 dexterity check or they are also knocked prone. \n Ranged: You must pick up arrows individually from the ground using your "environmental interaction", or the "Use an Object" action to nock your bow."</string>
+    <string name="twenties_weapon">"You lose your balance while attacking."</string>
+    <string name="twenties_weapon_sub">"You fall prone and your movement is reduced to 0."</string>
+    <string name="thirties_weapon">"As you attack your opponent, you begin to fear that they are the superior combatant."</string>
+    <string name="thirties_weapon_sub">"Disadvantage on your next attack roll against your target."</string>
+    <string name="fourties_weapon">"You miss an attack and gaze upon the chaos of the battle, causing your confidence to falter."</string>
+    <string name="fourties_weapon_sub">"Disadvantage on your next attack roll against any target."</string>
+    <string name="fifties_weapon">"You lose your grip as you attack."</string>
+    <string name="fifties_weapon_sub">"Roll a DC 10 Dexterity Check, on failure you drop your weapon at your feet."</string>
+    <string name="sixties_weapon">"Melee: The weapon slips from your hand as you attack. \n Ranged: Your ammunition gets lodged in its container."</string>
+    <string name="sixties_weapon_sub">"Melee: Roll a DC 10 Dexterity Check, on failure you throw your weapon into your enemy's space. DM determines where the item is thrown on large sized or greater creatures. \n Ranged: You must use an action to organize the ammunition in its case before you can make another ranged attack."</string>
+    <string name="seventy_seventyfour_weapon">"Melee: You lunge past an enemy exposing yourself to his attack. \n Ranged: Your missile startles your allies near your target."</string>
+    <string name="seventy_seventyfour_weapon_sub">"Melee: Enemy you were attacking is able to use their reaction to perform and attack of opportunity. \n Ranged: the target can perform an opportunity attack on any ally within melee range."</string>
+    <string name="seventyfive_seventynine_weapon">"You attack wildly and lose track of the fight around you."</string>
+    <string name="seventyfive_seventynine_weapon_sub">"End your turn and move to the bottom of the initiative order at the start of the next round."</string>
+    <string name="eighties_weapon">"Missing what you thought was a critical blow causes you to panic."</string>
+    <string name="eighties_weapon_sub">"End your current turn and you are surprised until the end of your next turn."</string>
+    <string name="nineties_weapon">"You lose your footing while attacking and fall to the ground bumping your head."</string>
+    <string name="nineties_weapon_sub">You fall prone. Roll a DC 10 constitution save, on failure you take 1d6 damage and are knocked unconscious for 1 minute or until you receive damage from any source. On success take half damage and you remain conscious.</string>
+    <string name="onehundred_weapon">"You lose your footing while attacking and slam your head into the ground."</string>
+    <string name="onehundred_weapon_sub">"You fall prone, take 3d6 damage, and become unconscious for 1 minute or until you receive damage from any source."</string>
+    <!--  critical failure: spell -->
+</resources>

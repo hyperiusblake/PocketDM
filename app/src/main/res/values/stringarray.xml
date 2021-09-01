@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="weapon_fail">
+        <item>"You're embarrassed by your poor showing, but nothing remarkable happens."</item>
+        <item>"You lose your footing, exposing yourself to your target."</item>
+        <item>"You lose your combat footing, exposing yourself to your enemies."</item>
+        <item>"You lose your combat footing, and have difficulty recovering."</item>
+        <item>"Melee: You get tangled with your enemy and fall over. \n Ranged: You spill your quiver."</item>
+        <item>"You lose your balance while attacking."</item>
+        <item>"As you attack your opponent, you begin to fear that they are the superior combatant."</item>
+        <item>"You miss an attack and gaze upon the chaos of the battle, causing your confidence to falter."</item>
+        <item>"You lose your grip as you attack."</item>
+        <item>"Melee: The weapon slips from your hand as you attack. \n Ranged: Your ammunition gets lodged in its container."</item>
+        <item>"Melee: You lunge past an enemy exposing yourself to his attack. \n Ranged: Your missile startles your allies near your target."</item>
+        <item>"You attack wildly and lose track of the fight around you."</item>
+        <item>"Missing what you thought was a critical blow causes you to panic."</item>
+        <item>"You lose your footing while attacking and fall to the ground bumping your head."</item>
+        <item>"You lose your footing while attacking and slam your head into the ground."</item>
+    </string-array>
+    <string-array
+        name="weapon_fail_sub">
+        <item>"You miss your attack."</item>
+        <item>"Your target has advantage on their first attack against you next round."</item>
+        <item>"Your enemies have advantage on their first attack roll against you next round."</item>
+        <item>"Your enemies have advantage on their attack rolls against you until the end of your next turn."</item>
+        <item>"Melee: You are knocked prone and your movement is reduced to 0. Your target must succeed a DC 10 dexterity check or they are also knocked prone. \n Ranged: You must pick up arrows individually from the ground using your "environmental interaction", or the "Use an Object" action to nock your bow."</item>
+        <item>"You fall prone and your movement is reduced to 0."</item>
+        <item>"Disadvantage on your next attack roll against your target."</item>
+        <item>"Disadvantage on your next attack roll against any target."</item>
+        <item>"Roll a DC 10 Dexterity Check, on failure you drop your weapon at your feet."</item>
+        <item>"Melee: Roll a DC 10 Dexterity Check, on failure you throw your weapon into your enemy's space. DM determines where the item is thrown on large sized or greater creatures. \n Ranged: You must use an action to organize the ammunition in its case before you can make another ranged attack."</item>
+        <item>"Melee: Enemy you were attacking is able to use their reaction to perform and attack of opportunity. \n Ranged: the target can perform an opportunity attack on any ally within melee range."</item>
+        <item>"End your turn and move to the bottom of the initiative order at the start of the next round."</item>
+        <item>"End your current turn and you are surprised until the end of your next turn."</item>
+        <item>You fall prone. Roll a DC 10 constitution save, on failure you take 1d6 damage and are knocked unconscious for 1 minute or until you receive damage from any source. On success take half damage and you remain conscious.</item>
+        <item>"You fall prone, take 3d6 damage, and become unconscious for 1 minute or until you receive damage from any source."</item>
+    </string-array>
+</resources>
