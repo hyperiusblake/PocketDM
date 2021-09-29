@@ -4,8 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/robin/AndroidStudioProjects/D100/app/src/main/res/drawable-v24/temp_foreground.xml" value="0.1953125" />
+        <entry key="..\:/Users/robin/AndroidStudioProjects/D100/app/src/main/res/drawable/border_one.xml" value="0.19427083333333334" />
         <entry key="..\:/Users/robin/AndroidStudioProjects/D100/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1953125" />
+        <entry key="..\:/Users/robin/AndroidStudioProjects/D100/app/src/main/res/layout/activity_crit_success_fail.xml" value="0.25" />
         <entry key="..\:/Users/robin/AndroidStudioProjects/D100/app/src/main/res/layout/activity_main.xml" value="0.22333333333333336" />
+        <entry key="..\:/Users/robin/AndroidStudioProjects/D100/app/src/main/res/layout/fragment_weapon_crit_fail.xml" value="0.22333333333333336" />
       </map>
     </option>
   </component>

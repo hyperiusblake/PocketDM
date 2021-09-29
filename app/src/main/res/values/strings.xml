@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">D100</string>
     <string name="roll">Roll!</string>
+    <string name="crit_title">Need results for a critical failure (NAT 1) or a critical success (NAT 20)? Look no further.</string>
+    <string name="crit_fail_weapon_btn">NAT 1 (weapon)</string>
+    <string name="crit_success_weapon_btn">NAT 20 (weapon)</string>
+    <string name="crit_fail_spell_btn">NAT 1 (spell)</string>
+    <string name="crit_success_spell_btn">NAT 20 (spell)</string>
     <!--  critical failure: weapon -->
     <string name="one_fail_weapon">"You're embarrassed by your poor showing, but nothing remarkable happens."</string>
     <string name="one_fail_weapon_sub">"You miss your attack."</string>
@@ -32,5 +37,7 @@
     <string name="nineties_weapon_sub">You fall prone. Roll a DC 10 constitution save, on failure you take 1d6 damage and are knocked unconscious for 1 minute or until you receive damage from any source. On success take half damage and you remain conscious.</string>
     <string name="onehundred_weapon">"You lose your footing while attacking and slam your head into the ground."</string>
     <string name="onehundred_weapon_sub">"You fall prone, take 3d6 damage, and become unconscious for 1 minute or until you receive damage from any source."</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <!--  critical failure: spell -->
 </resources>
